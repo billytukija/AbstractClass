@@ -1,0 +1,11 @@
+C:\Users\billy.richard\Documents\GitHub\AbstractClass\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\netcoreapp2.2\ValueAndReferenceTypes.deps.json
+C:\Users\billy.richard\Documents\GitHub\AbstractClass\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\netcoreapp2.2\ValueAndReferenceTypes.runtimeconfig.json
+C:\Users\billy.richard\Documents\GitHub\AbstractClass\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\netcoreapp2.2\ValueAndReferenceTypes.runtimeconfig.dev.json
+C:\Users\billy.richard\Documents\GitHub\AbstractClass\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\netcoreapp2.2\ValueAndReferenceTypes.dll
+C:\Users\billy.richard\Documents\GitHub\AbstractClass\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\netcoreapp2.2\ValueAndReferenceTypes.pdb
+C:\Users\billy.richard\Documents\GitHub\AbstractClass\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\netcoreapp2.2\ValueAndReferenceTypes.csprojAssemblyReference.cache
+C:\Users\billy.richard\Documents\GitHub\AbstractClass\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\netcoreapp2.2\ValueAndReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\billy.richard\Documents\GitHub\AbstractClass\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\netcoreapp2.2\ValueAndReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\billy.richard\Documents\GitHub\AbstractClass\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\netcoreapp2.2\ValueAndReferenceTypes.AssemblyInfo.cs
+C:\Users\billy.richard\Documents\GitHub\AbstractClass\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\netcoreapp2.2\ValueAndReferenceTypes.dll
+C:\Users\billy.richard\Documents\GitHub\AbstractClass\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\netcoreapp2.2\ValueAndReferenceTypes.pdb
